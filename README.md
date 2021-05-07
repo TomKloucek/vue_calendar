@@ -1,5 +1,7 @@
 # vue_calendar
 
+Basic calendar web app connected to Firebase database and components done by Vuetify.
+
 ## Project setup
 ```
 npm install
